@@ -1,4 +1,4 @@
-module github.com/holyheld/erc6492
+module github.com/cagriaksay/erc6492
 
 go 1.16
 
